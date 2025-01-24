@@ -1,1 +1,1 @@
-# This is a collection of coding projects I have worked on so far
+# This is a collection of coding projects I have worked on so far Main.CPP contains a custom PID controller and 2 configurations of a position tracking algorithm called Odometry. Program 5 is an implementation of an fsm and custom keyboard interupts and Program 4 is an implementation of a maze game called save simba all written in LC3 assembly.
