@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+redis
+python-dotenv
+numpy
+faiss-cpu
+lightfm
+sentence-transformers
+

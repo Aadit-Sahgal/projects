@@ -1,0 +1,18 @@
+{
+  "name": "RestaurantRecsApp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "expo start"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "@react-native-async-storage/async-storage": "^1.20.1",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/stack": "^6.3.16",
+    "expo": "~48.0.18",
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "react-native-deck-swiper": "^2.0.5",
+    "@react-native-community/slider": "^4.2.4"
+  }
+}
